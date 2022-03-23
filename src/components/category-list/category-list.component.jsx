@@ -13,8 +13,6 @@ const CategoryList = ({categories}) => {
         </div>
     )
     
-
-
 }
 
 export default CategoryList
